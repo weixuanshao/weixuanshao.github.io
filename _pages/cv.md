@@ -14,24 +14,19 @@ Education
 * M.A. in QMSS, Columbia University, 2024-2025
 * B.A. in Economics, Barnard College, 2020-2024
 
-Work experience
+Work experience (updating...)
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2024: 
+  * 
+  * 
+  * 
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2023:
+  * 
+  * 
+  * 
   
-Skills
+Skills (updating...)
 ======
 * Skill 1
 * Skill 2
@@ -40,6 +35,6 @@ Skills
   * Sub-skill 2.3
 * Skill 3
   
-Service and leadership
+Service and leadership (updating...)
 ======
 * 
