@@ -4,8 +4,6 @@ excerpt: "Summary of key research papers related to cloudburst prediction"
 collection: portfolio
 ---
 
-## Literature Research
-
 ### 1. High-Resolution Impact-Based Early Warning System for Riverine Floods
 
 #### Full Citation:
@@ -59,6 +57,3 @@ Precursor signals differ by region and season, requiring localized model adjustm
 
 #### Relevance to Our Project:
 The Domino framework enhances early warnings by identifying atmospheric precursors for extreme rainfall, improving cloudburst prediction lead times. Its machine learning approach boosts accuracy, complementing traditional methods. Additionally, its region-specific analysis supports customized models for better local forecasting.
-
-## You can download the full literature research report here:  
-### 📄 [Download PDF](./files/Literature Research.pdf)
